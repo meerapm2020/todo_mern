@@ -1,0 +1,30 @@
+body {
+  font-family: Arial;
+  background: #f2f2f2;
+  padding: 40px;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+}
+
+button {
+  padding: 6px 10px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+li {
+  background: white;
+  padding: 10px;
+  margin: 10px 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.actions button {
+  margin-left: 5px;
+}
